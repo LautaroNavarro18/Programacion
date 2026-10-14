@@ -1,0 +1,7 @@
+# Archivos que genera Visual Studio (no se suben)
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userprefs
